@@ -1,7 +1,38 @@
 # Data_Science_Projects
-Predict Employee Computer Access Needs in Python
 
-When an employee at any company starts work, they first need to obtain the computer access necessary to fulfill their role. This access may allow an employee to read/manipulate resources through various applications or web portals. It is assumed that employees fulfilling the functions of a given role will access the same or similar resources. It is often the case that employees figure out the access they need as they encounter roadblocks during their daily work (e.g. not able to log into a reporting portal). A knowledgeable supervisor then takes time to manually grant the needed access in order to overcome access obstacles. As employees move throughout a company, this access discovery/recovery cycle wastes a nontrivial amount of time and money.
+Project-1
+Build an Image Classifier for Plant Species Identification
+In this machine learning project, we will use binary leaf images and extracted features, including shape, margin, and texture to accurately identify plant species using different benchmark classification techniques.
 
 
-There is a considerable amount of data regarding an employee’s role within an organization and the resources to which they have access. Given the data related to current employees and their provisioned access, models can be built that automatically determine access privileges as employees enter and leave roles within a company. In this data science project, we will build an auto-access model that minimizes the human involvement required to grant or revoke employee access.
+Project-2
+Ecommerce product reviews - Pairwise ranking and sentiment analysis
+This project analyzes a dataset containing ecommerce product reviews. The goal is to use machine learning models to perform sentiment analysis on product reviews and rank them based on relevance. Reviews play a key role in product recommendation systems.
+
+
+Project-3
+Perform Time series modelling using Facebook Prophet
+In this project, we are going to talk about Time Series Forecasting to predict the electricity requirement for a particular house using Prophet.
+
+
+Project-4
+Data Science Project in Python on BigMart Sales Prediction
+The goal of this data science project is to build a predictive model and find out the sales of each product at a given Big Mart store.
+
+
+Project-5
+Credit Card Fraud Detection as a Classification Problem
+In this data science project, we will predict the credit card fraud in the transactional dataset using some of the predictive models.
+
+
+Project-6
+Human Activity Recognition Using Multiclass Classification in Python 
+In this human activity recognition project, we use multiclass classification machine learning techniques to analyse fitness dataset from a smartphone tracker.
+
+
+Project-7
+
+
+
+
+
