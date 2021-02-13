@@ -31,8 +31,54 @@ In this human activity recognition project, we use multiclass classification mac
 
 
 Project-7
+Learn to prepare data for your next machine learning project
+Text data requires special preparation before you can start using it for any machine learning project.In this ML project, you will learn about applying Machine Learning models to create classifiers and learn how to make sense of textual data.
 
 
+Project-8
+Predict Employee Computer Access Needs in Python
+Data Science Project in Python- Given his or her job role, predict employee access needs using amazon employee database.
 
 
+Project-9
+Machine Learning project for Retail Price Optimization
+In this machine learning pricing project, we implement a retail price optimization algorithm using regression trees. This is one of the first steps to building a dynamic pricing model.
+
+
+Project-10
+Data Science Project - Instacart Market Basket Analysis 
+Data Science Project - Build a recommendation engine which will predict the products to be purchased by an Instacart consumer again.
+
+
+Project-11
+Mercari Price Suggestion Challenge Data Science Project
+Data Science Project in Python- Build a machine learning algorithm that automatically suggests the right product prices
+
+
+Project-12
+Choosing the right Time Series Forecasting Methods
+There are different time series forecasting methods to forecast stock price, demand etc. In this machine learning project, you will learn to determine which forecasting method to be used when and how to apply with time series forecasting example.
+
+
+Project-13
+Time Series Forecasting with LSTM Neural Network Python 
+Deep Learning Project- Learn to apply deep learning paradigm to forecast univariate time series data.
+
+
+Project-14
+Analyse Yelp Dataset with Spark & Parquet Format on Azure Databricks
+In this Databricks Azure project, you will use Spark & Parquet file formats to analyse the Yelp reviews dataset. As part of this you will deploy Azure data factory, data pipelines and visualise the analysis.
+
+
+Project-15
+Zillow’s Home Value Prediction (Zestimate)
+Data Science Project in R -Build a machine learning algorithm to predict the future sale prices of homes.
+
+
+Project-16
+Predict Churn for a Telecom company using Logistic Regression
+Machine Learning Project in R- Predict the customer churn of telecom sector and find out the key drivers that lead to churn. Learn how the logistic regression model using R can be used to identify the customer churn in telecom dataset.
+
+
+Project-17
 
