@@ -81,4 +81,11 @@ Machine Learning Project in R- Predict the customer churn of telecom sector and 
 
 
 Project-17
+Ecommerce product reviews - Pairwise ranking and sentiment analysis
+This project analyzes a dataset containing ecommerce product reviews. The goal is to use machine learning models to perform sentiment analysis on product reviews and rank them based on relevance. Reviews play a key role in product recommendation systems.
+
+
+Project-18
+Walmart Sales Forecasting Data Science Project
+Data Science Project in R-Predict the sales for each department using historical markdown data from the Walmart dataset containing data of 45 Walmart stores.
 
